@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.matplotlib/
+
+# Generated experiment outputs
+results/
+doc/
+policy_comparison.csv
+policy_comparison.png
+training_curves.png
+
+# Local documents and proposal drafts
+*.docx
+*.pdf
+*.pptx
